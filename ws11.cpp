@@ -35,7 +35,7 @@ class RecordsManager{
                     }
                     catch(exception &err)
                     {
-                        cout<<"Conversion failure"<<endl;
+                        cout<<"Conversion failure this has now been corrected"<<endl;
                     }
                 } 
                 _file.close();           
